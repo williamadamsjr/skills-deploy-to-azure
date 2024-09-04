@@ -1,5 +1,5 @@
 name: Configure Azure environment
-
+# attempt #2 after upgrading azure sub to payg
 on:
   pull_request:
     types: [labeled]
