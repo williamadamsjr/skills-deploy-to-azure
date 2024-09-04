@@ -1,5 +1,5 @@
 name: Configure Azure environment
-# attempt #2 after upgrading azure sub to payg
+# attempt #3 after deleting resource group created in first attempt
 on:
   pull_request:
     types: [labeled]
