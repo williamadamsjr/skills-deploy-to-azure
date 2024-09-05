@@ -1,5 +1,5 @@
 name: Configure Azure environment
-# attempt #4 after registering Microsoft.App for az sub
+# attempt #5 after waiting a day following my sub upgrade
 on:
   pull_request:
     types: [labeled]
