@@ -1,5 +1,5 @@
 name: Configure Azure environment
-# attempt #3 after deleting resource group created in first attempt
+# attempt #5 after waiting a day following my sub upgrade
 on:
   pull_request:
     types: [labeled]
